@@ -8,4 +8,4 @@ Photo classifier app telling if the object is present or not
 - Qoura: 
 
 ## Research:
-- [] https://www.yoctopuce.com/EN/article/a-quick-tutorial-on-rs485-and-modbus
+[] - https://www.yoctopuce.com/EN/article/a-quick-tutorial-on-rs485-and-modbus
